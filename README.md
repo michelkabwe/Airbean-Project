@@ -1,7 +1,7 @@
 # airbean
 
 This is one of my first applications created in Vue.js together my team mates. 
-The project deployed on Heroku
+
 Features: 
 - Login
 - Create profile
