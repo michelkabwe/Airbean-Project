@@ -1,5 +1,16 @@
 # airbean
 
+This is one of my first applications created in Vue.js together my team mates. 
+The project deployed on Heroku
+Features: 
+- Login
+- Create profile
+- Buy Coffee
+- Shopping Cart
+- Order Number 
+- Add Items
+- Delete Items
+
 ## Project setup
 ```
 npm install
@@ -7,7 +18,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run start
 ```
 
 ### Compiles and minifies for production
